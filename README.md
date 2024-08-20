@@ -1,2 +1,5 @@
 # Dogs Breed Classification
-About To focus on data analysis and extracting insights through model development, training, and performance evaluation in Deep Learning.
+
+## Overview
+This repository contains the code and resources for a deep learning-based Dog Breed Classification project. The goal of this project is to classify dog images into their respective breeds using a Convolutional Neural Network (CNN). The model is trained on a dataset of dog images with labeled breeds.
+
